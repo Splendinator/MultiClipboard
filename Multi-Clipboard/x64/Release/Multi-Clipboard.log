@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Dominic\source\repos\Multi-Clipboard\Multi-Clipboard\Source.cpp(89,13): warning C4244: 'initializing': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\Dominic\source\repos\Multi-Clipboard\Multi-Clipboard\Source.cpp(108,14): warning C4244: 'initializing': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\Dominic\source\repos\Multi-Clipboard\Multi-Clipboard\Source.cpp(122,5): warning C4102: 'END': unreferenced label
+  Generating code
+  2 of 2 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Multi-Clipboard.vcxproj -> C:\Users\Dominic\source\repos\Multi-Clipboard\x64\Release\Multi-Clipboard.exe
